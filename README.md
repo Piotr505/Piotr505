@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Piotr505
 - 👀 I’m interested in Html, Python, Javasript
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python 
